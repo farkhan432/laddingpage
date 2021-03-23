@@ -6,7 +6,20 @@
 }
 .box3{
     height:200px;
+    border-radius: 10px;
 }
 .box4{
     height:45px;
+}
+.box5{
+    height: 300px;
+}
+.box6{
+ height: 210px;
+}
+.box7{
+    height: 120px;
+}
+.box8{
+    height: 50px;
 }
